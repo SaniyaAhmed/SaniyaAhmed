@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaniyaAhmed
-- 👀 I’m interested in Programming with Java and Cloud Computing
-- 🌱 I’m currently learning Cloud fundamentals
-- 💞️ I’m looking to collaborate on various Java projects 
+- 👀 I’m interested in Programming with Java
+- 🌱 having focus on machine learning with python
+- 💞️ I’m looking to collaborate on various Java and Machine learning projects.
 - 📫 How to reach me - @SaniyaAhmed
 - 😄 Pronouns: she/her
   
